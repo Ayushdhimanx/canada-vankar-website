@@ -22,6 +22,7 @@ This is a dynamic web application developed for managing community data through 
 - HTML, CSS, JavaScript
 ## 📸 Preview
 ![Homepage](Screenshots/homepage.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ## 🔒 Code Availability
 Due to client confidentiality, the source code is not publicly available.
